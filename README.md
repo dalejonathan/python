@@ -1,3 +1,13 @@
 # python
-This is the python leanring repo.
-I am starting out with adding some projects form codecadmy.com which is a free site to learn. The first project is the game battelship, after finishing the lesson the student is given the ability to add different options to the game to make it fun and exciting.
+This is the battelship lesson from codecademy.com - extra credit section.
+You can also add on to your Battleship! program to make it more complex and fun to play. Here are some ideas for enhancements—maybe you can think of some more!
+
+Make multiple battleships: you'll need to be careful because you need to make sure that you don’t place battleships on top of each other on the game board. You'll also want to make sure that you balance the size of the board with the number of ships so the game is still challenging and fun to play.
+
+Make battleships of different sizes: this is trickier than it sounds. All the parts of the battleship need to be vertically or horizontally touching and you’ll need to make sure you don’t accidentally place part of a ship off the side of the board.
+
+Make your game a two-player game.
+
+Use functions to allow your game to have more features like rematches, statistics and more!
+
+Some of these options will be easier after we cover loops in the next lesson. Think about coming back to Battleship! after a few more lessons and see what other changes you can make!
